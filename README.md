@@ -79,5 +79,5 @@ The model architecture consists of an image encoder (CNN) and a text decoder (RN
 Contributions to this project are welcome. If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/yehonatanke/char_rec/blob/main/LICENSE).
 
