@@ -1,7 +1,3 @@
-
-
-
-
 # Samaritan Script Understanding
 
 ## Overview
@@ -75,9 +71,4 @@ where $y_{t'}$ ( for $t'$ < $t$ ) denotes the previously generated tokens.
 ## Model Architecture
 The model architecture consists of an image encoder (CNN) and a text decoder (RNN with attention mechanism). The image encoder extracts features from input images, while the text decoder generates text sequences based on the encoded image features. The attention mechanism allows the model to focus on relevant parts of the input image when generating the output text.
 
-## Contributing
-Contributions to this project are welcome. If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](https://github.com/yehonatanke/char_rec/blob/main/LICENSE).
 
